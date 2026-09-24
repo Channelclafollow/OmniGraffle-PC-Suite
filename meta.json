@@ -1,0 +1,23 @@
+{
+  "repo": "omnigraffle-pc-suite",
+  "product": "OmniGraffle PC Suite",
+  "kind": "productivity",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "office-suite",
+  "topics": [
+    "omnigraffle-pc",
+    "omnigraffle-windows",
+    "office-suite-desktop",
+    "how-to-install-omnigraffle",
+    "omnigraffle-pc-desktop-package",
+    "omnigraffle-workspace",
+    "omnigraffle-pc-pro-tools",
+    "omnigraffle-suite",
+    "zentool-omnigraffle",
+    "omnigraffle-pc-tool-9"
+  ],
+  "site": "zentool.art"
+}
